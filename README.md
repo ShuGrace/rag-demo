@@ -24,8 +24,8 @@ r.retrieve("How does formative assessment work in project-based learning?", top_
 
 ## Structure
 
-- `src/rag/retriever.py` — `InMemoryRetriever` (baseline, numpy cosine similarity) and `QdrantRetriever` (same interface, backed by Qdrant)
-- `src/rag/hybrid_retriever.py` — dense (bge-m3) + sparse (BM25) fusion retriever
-- `src/rag/faithfulness_checker.py` — decomposes a generated answer into claims and checks each against the retrieved context
-- `src/rag/ingestion/` — scrapers used to build the original corpus (not included)
+- `src/retriever.py` — `InMemoryRetriever` (baseline, numpy cosine similarity) and `QdrantRetriever` (same interface, backed by Qdrant)
+- `src/hybrid_retriever.py` — dense (bge-m3) + sparse (BM25) fusion retriever
+- `src/faithfulness_checker.py` — decomposes a generated answer into claims and checks each against the retrieved context
+- `src/ingestion/` — scrapers used to build the original corpus (not included)
 - `data/sample/` — small self-authored sample corpus for trying the pipeline without the original data

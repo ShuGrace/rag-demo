@@ -6,7 +6,7 @@ second relevant chunk is just outside top-5 or genuinely far down.
 import pathlib
 from hybrid_retriever import HybridRetriever
 
-PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
 CORPUS_PATH = str(PROJECT_ROOT / "data" / "processed" / "chunks.jsonl")
 
 QUERY = "How do you write an effective driving question for a PBL project?"

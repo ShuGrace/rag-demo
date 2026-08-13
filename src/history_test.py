@@ -6,7 +6,7 @@ import pathlib
 from retriever import QdrantRetriever
 from generate import generate_lesson_plan
 
-PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 TEST_PROMPTS = [
     {"id": "normal_math", "prompt": "How can mathematics teachers design authentic project-based learning tasks that connect to real-world data?"},

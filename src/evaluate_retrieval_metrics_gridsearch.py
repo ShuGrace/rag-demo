@@ -27,7 +27,7 @@ import json
 from retriever import QdrantRetriever
 from hybrid_retriever import HybridRetriever
 
-PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
 CORPUS_PATH = str(PROJECT_ROOT / "data" / "processed" / "chunks.jsonl")
 BENCHMARK_PATH = str(PROJECT_ROOT / "benchmark" / "hybrid_eval_benchmark.jsonl")
 

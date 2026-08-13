@@ -7,7 +7,7 @@ and similarity search.
 import pathlib
 from retriever import QdrantRetriever
 
-PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 TEST_QUERIES = [
     "What is the history of problem-based learning at McMaster University?",

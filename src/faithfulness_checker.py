@@ -176,7 +176,7 @@ if __name__ == "__main__":
     from generate import generate_lesson_plan
     import pathlib
 
-    PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
+    PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
     retriever = HybridRetriever(
         corpus_path=str(PROJECT_ROOT / "data" / "processed" / "chunks.jsonl"),
         dense_weight=0.5,

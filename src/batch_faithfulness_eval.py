@@ -8,7 +8,7 @@ from retriever import QdrantRetriever
 from generate import generate_lesson_plan
 from faithfulness_checker import check_faithfulness
 
-PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 TEST_PROMPTS = [
     {"id": "en_math", "prompt": "Design a project-based learning unit for a Grade 6 mathematics class using a driving question, with a public product and a plan for student reflection."},
