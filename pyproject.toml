@@ -1,0 +1,31 @@
+[project]
+name = "rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ShuGrace", email = "your.email@example.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.121.0",
+    "beautifulsoup4>=4.15.0",
+    "haystack-ai>=3.0.0",
+    "jieba>=0.42.1",
+    "numpy>=2.4.6",
+    "pdfplumber>=0.11.10",
+    "playwright>=1.62.0",
+    "python-dotenv>=1.2.2",
+    "qdrant-client>=1.19.0",
+    "rank-bm25>=0.2.2",
+    "requests>=2.34.2",
+    "sentence-transformers>=5.7.0",
+    "trafilatura>=2.2.0",
+]
+
+[project.scripts]
+rag = "rag:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"

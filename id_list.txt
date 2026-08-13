@@ -1,0 +1,249 @@
+﻿moe_tech_education_opinion_2025_0	| 信息名称： | 教育部等七部门关于加强中小学科技教育的意见 |  |  |  |  |  | 信息索引： | 360A06-09-2025-0029-1 |
+moe_tech_education_opinion_2025_1	筹规划、试点先行，坚持守正创新、遵循规律，坚持全面发展、学科融通，坚持学用结合、知行合一，坚持因地制宜、分类推进，全面加强中小学科技教育，推动育人方式变革。 到
+moe_tech_education_opinion_2025_2	解决真实问题”开展跨学科项目式学习，引导学生从现象认知逐步转向规律探究和方法习得。高中阶段侧重实验探究和工程实践，引导学生了解科技前沿动态，鼓励开展基于真实情境
+moe_tech_education_opinion_2025_3	要依据，以学科融合为基础，基于真实情境问题解决，加强前沿科技成果向课程教学资源转化，开发优质科技教育课程资源，研发和提供配套教学材料。全面实施国家课程、有效应用
+moe_tech_education_opinion_2025_4	解决问题。鼓励探索“科学家+教师”联合授课的“双师课堂”、基于元宇宙虚拟实验室等前沿技术的“未来课堂”。统筹教学实施与作业管理，科学设计探究性、实践性作业，探索
+moe_tech_education_opinion_2025_5	行为以及表现出来的价值观念、学习态度、知识结构、认知过程、反思意识、创新思维和迭代能力等。逐步优化学生综合素质评价体系，将科技素养作为学生综合素质评价的重要内容
+moe_tech_education_opinion_2025_6	施路径及创新性的培养模式。 8.推动数字赋能。依托国家中小学智慧教育平台，建设科技教育栏目，推动优质数字资源共建共享。建设科技教育学习社区，为学生提供交流学习、
+moe_tech_education_opinion_2025_7	合素质。推行“学术+产业”双导师制，选派教师赴科研院所、高新企业挂职。支持高等学校、科研院所等机构安排专家到中小学校担任兼职教师，参与学校科技教育课程开发和教学
+moe_tech_education_opinion_2025_8	家科技计划加大对相关领域研究支持力度。鼓励有关基金会和社会组织设立公益项目，加大对薄弱地区、薄弱学校、特殊儿童群体科技教育支持力度。加强对校外培训机构的监管，严
+moe_tech_education_opinion_2025_9	全球科技教育均衡发展。推动国际青少年科创成果展示交流，推行双导师制项目学习，聘请诺贝尔奖得主等国际专家在线指导，培养学生全球意识和创新能力。实施“科技教育教师海
+moe_tech_education_opinion_2025_10	树立科学合理的教育理念，共同营造全社会广泛关注、积极支持并参与科技教育的良好风尚。 教育部 国家发展改革委 科技部 财政部 人力资源社会保障部 中国科学院 中国
+moe_tech_education_deployment_2025_0	为贯彻落实全国教育大会精神和《教育强国建设规划纲要（2024—2035年）》部署要求，近日，教育部等七部门联合印发《关于加强中小学科技教育的意见》（以下简称《意
+moe_tech_education_deployment_2025_1	情境下的科技探究实验和工程技术实践提供平台。依托国家中小学智慧教育平台，建设科技教育栏目，推动优质数字资源共建共享。五是推进高质高效的师资建设和家校社协同。将科
+moe_tech_education_qa_2025_0	近日，教育部等七部门联合印发《关于加强中小学科技教育的意见》（以下简称《意见》）。教育部基础教育司负责人就有关问题回答了记者提问。 1.请介绍《意见》出台的背景
+moe_tech_education_qa_2025_1	的内在要求，对加快建设教育强国、科技强国、人才强国，全面建设社会主义现代化强国具有重要意义。 2.《意见》提出的总体目标是什么？ 《意见》提出，到2030年，中
+moe_tech_education_qa_2025_2	式，引导学生综合运用多学科知识解决问题。三是加强素养导向的教研引领和综合评价。组建区域教研共同体，推动教研与教学一体化发展。建立健全覆盖学生、教师、学校及属地教
+moe_tech_education_qa_2025_3	培育科学精神。小学低年级重在通过生活化、游戏化情境，点燃和呵护好奇心；小学中高年级引导学生在“做中学”中深化概念理解，建立跨学科联系；初中阶段聚焦真实问题解决，
+moe_tech_education_qa_2025_4	教师”联合授课的“双师课堂”、基于元宇宙虚拟实验室等前沿技术的“未来课堂”等新型教学模式，打破传统课堂边界，构建沉浸式、互动式学习场景。在评价方式上，建立健全覆
+moe_tech_education_qa_2025_5	人“教联体”，有效联动高等学校、科研院所、科技企业、场馆基地、家庭社区等各方资源，共建区域科技教育中心，打造“百城千馆”工程，实施中小学科技教育“小小工程师”计
+moe_tech_education_qa_2025_6	关部门配合联动的工作机制，加强对科技教育的统筹规划和有效实施。二是统筹调配各方资金与项目资源，积极拓宽社会渠道，重点支持科技教育课程开发、资源建设、师资培训、课
+shanghai_hongkou_pbl_plan_2024_0	各中小学： 为深入贯彻《中共上海市委 上海市人民政府关于贯彻〈中共中央国务院关于深化教育教学改革全面提高义务教育质量的意见〉的实施意见》（沪委发〔2020〕3号
+shanghai_hongkou_pbl_plan_2024_1	》（教材〔2022〕2号）、《上海市教育委员会关于实施项目化学习推动义务教育育人方式改革的指导意见》（沪教委基〔2023〕24号）等要求，落实课程教学改革深化行
+shanghai_hongkou_pbl_plan_2024_2	型案例。2025年，区、校涌现一批项目化学习的改革成果。2026年，义务教育学校常态化实施项目化学习，教师教学理念、教学行为和学生学习方式发生积极变化，基本形成
+shanghai_hongkou_pbl_plan_2024_3	后服务的活动方式。学科项目化学习指向学科的核心素养培养，从学科实践中发现的真实问题转化而来，可在学科教学中以大概念整合单元或跨单元进行实施。跨学科项目化学习指向
+shanghai_hongkou_pbl_plan_2024_4	向探索学段衔接，实施关注科学问题解决的项目式学习，线上线下联合，发挥虹口项目化学习的示范引领作用。 （二）加强培训指导 1.开展分层分类研训。区教育学院教研室和
+shanghai_hongkou_pbl_plan_2024_5	对项目化学习的理解、探索与实施能力。 2.开展针对性专业研究。区教育学院科研室充分运用区子项目和实验校实施项目化学习过程中形成的经验，循序渐进推动区、校项目化学
+shanghai_hongkou_pbl_plan_2024_6	教育教学数字化转型工具和平台，破解实施过程中的关键问题，提炼项目化实施过程中的关键流程和技术，建设案例、课例在线资源库，实现精准指导，区校联动，探索项目化学习的
+shanghai_hongkou_pbl_plan_2024_7	织机构，因需引入校外优秀的科技、医务、法律、文化等领域工作者，以项目化学习的方式合作开展科技课程资源一体化建设。 （四）推进评价改革 1.创新评价方式方法。对市
+shanghai_hongkou_pbl_plan_2024_8	指导，落实活动项目化、学科项目化和跨学科项目化三类项目化学习案例资源的开发与指导。事务中心、信息中心对学校建设跨学科综合学习空间给予专业支持。学校要建立以校长为
+shanghai_hongkou_pbl_plan_2024_9	和学分。学校在绩效工资分配中，对积极参与项目化学习实践并取得创新突破成果的教师给予适当奖励。 （五）加强交流推广 区教育学院教研室、科研室牵头组织参加市、区项目
+shanghai_hongkou_pbl_plan_2024_10	| 区项目组 |  |  | 组织区级项目化学习专题培训 | 每学期1-2次 | 区项目组、师训部 |  |  | 开展项目化学习联合研训活动 | 每学期1-2
+shanghai_putuo_pbl_plan_2024_0	正文内容区域请使用tab按钮切换浏览 关于印发《普陀区实施项目化学习推动义务教育育人方式改革的工作方案》的通知 区教育系统各完中、初中、小学、一贯制学校，区教育
+shanghai_putuo_pbl_plan_2024_1	色社会主义思想为指导，全面贯彻党的教育方针，落实立德树人根本任务。在普陀“为每一个学生学以成人、人生出彩提供适合教育”的核心理念引领下，以《义务教育课程方案和课
+shanghai_putuo_pbl_plan_2024_2	项目化学习实施质量;丰富区域优质项目设计与规划、管理经验案例成果;区域开展项目成果展示与研讨，区域学校基本达成《项目化学习指导意见》的量与质的要求。 三、主要任
+shanghai_putuo_pbl_plan_2024_3	科项目化学习基于跨学科主题学习;活动项目化学习基于综合实践活动课程、校本课程实现的功能、相应载体与设置要求。原则上，国家课程中每学期开展学科项目化学习的课时不低
+shanghai_putuo_pbl_plan_2024_4	学校项目化学习规划与管理者 | 制定相关学校项目化学习规划与管理要求 | 区干部培训课程 | 学院干训办 |  | 学校 教师 | 学校项目化学习开发与实施者 
+shanghai_putuo_pbl_plan_2024_5	成果，关注项目化学习中的高阶策略应用以及学校综合实践活动课程能力目标体系建设等一系列“疑难深”的问题，依托区域教师发展团队项目，与学校充分合作，开展深度交流与研
+shanghai_putuo_pbl_plan_2024_6	类学习空间场域，优化功能布局，拓展教学功能，合理配置教学设施设备和学习资源，充分挖掘现有空间环境资源为学生开展项目化学习活动构建高效互动的项目化学习环境。 鼓励
+shanghai_putuo_pbl_plan_2024_7	机制 (一)加强组织领导 加强行政推动和专业指导结合，统筹推进区内义务教育阶段学校的项目化学习实施工作，成立普陀区义务教育项目化学习领导小组和工作小组。 领导小
+shanghai_putuo_pbl_plan_2024_8	方式的活力。 (三)组织督导考核 将实施项目化学习情况纳入发展性督导范围。将实施项目化学习的组织管理、项目实施、资源建设、常规研修、展示交流等实际成效纳入学校绩
+shanghai_chongming_pbl_plan_2024_0	索引号： SY0024784891202400052 主题分类： 科技、教育、知识产权-教育 公开主体： 上海市崇明区教育局 发文字号： 沪崇教基〔2024〕9
+shanghai_chongming_pbl_plan_2024_1	（沪教委基〔2023〕24号）等文件精神，在实施《崇明区义务教育项目化学习三年行动计划（2020-2022年）》的基础上，落实课程教学改革深化行动，探索激活创造
+shanghai_chongming_pbl_plan_2024_2	体化实践共同体，分层分类设计项目化学习研训课程，构建系统的研究推进机制。 2024年，分层分类开展项目化学习研训，发挥市、区两级实验校的辐射引领作用，形成区、学
+shanghai_chongming_pbl_plan_2024_3	化等综合性教学活动），校本课程中的项目化学习课时比例不低于5%。各校至少形成1个类别的项目化学习校本实施范例。 2.推动常态化实施。学校教育教学团队通过创设真实
+shanghai_chongming_pbl_plan_2024_4	培训体系，开发项目化学习系列教师培训课程。对尚未开展项目化学习的学校与教师开展通识培训；对有实施基础的学校与教师根据实际需求开展有针对性的专题培训。将项目化学习
+shanghai_chongming_pbl_plan_2024_5	，扩大学区及区域成果辐射范围，为项目化学习提供更多典型样例和实践范式。 （三）优化资源供给，创设实施环境 1.构建区、校两级项目化学习资源库。区教育学院有机整合
+shanghai_chongming_pbl_plan_2024_6	。区教育局、教育学院将项目化学习纳入学校课程与教学考核评价指标体系。教育学院定期组织项目化学习交流研讨活动，每年进行项目化学习方案设计、实施案例、学生成果等评选
+shanghai_chongming_pbl_plan_2024_7	校、教师的支持和指导，统筹推进区域内义务教育学校的项目化学习。学区、集团由核心校校长负责开展项目化学习的整体设计与实施。学校要建立以校长为核心的项目化学习领导小
+shanghai_chongming_pbl_plan_2024_8	的、提供优质资源和经验的学校与教师予以相应奖励。学校对积极参与项目化学习实践并取得创新突破成果的教师给予适当奖励，在绩效分配上予以鼓励和倾斜。 （四）加强交流推
+shanghai_qingpu_pbl_awards_2020_0	第二届“学习素养·项目化学习”全国案例征集与评选获奖名单 QA4311041-2020-003 主动公开 无 无 2020.09.24 | 第二届“学习素养·项
+ictedu_pbl_action_path_0	新课程视域下项目式学习行动路径的建构 摘 要：新课程视域下，以项目式学习为代表的新教育手段回归教材体系是教育改革的应有之义。以欧美现代教育为蓝本的项目式学习在国
+ictedu_pbl_action_path_1	；新课标；教育化改造 中图分类号：G424 文献标识码：A 作者简介：蒋硕，北京市西城区力学小学副校长、高级教师(北京，100031);胡佳怡(通讯作者)，北京
+ictedu_pbl_action_path_2	为各领域教育指明了新时代视域下的育人目标，因此，教育教学改革必然要推动以项目式学习和跨学科主题学习为代表的综合性育人手段的广泛应用。 随着教育改革的不断深入，适
+ictedu_pbl_action_path_3	者双重视角对项目式学习进行再认识，以项目执行架构的教育化改造为基础，尝试构建基于教材单元的项目化学习行动路径，为一线教师开展项目式学习教学实践提供参考。 一、项
+ictedu_pbl_action_path_4	有目的行动在教学过程中的应用》(The Project Method-The Use of the Purposeful Act in the Educativ
+ictedu_pbl_action_path_5	BL)定义为一套系统的教学方法，它是对复杂、真实问题的探究过程，也是精心设计项目作品、规划和实施项目任务的过程，在这个过程中，学生能够掌握所需的知识和技能[9]
+ictedu_pbl_action_path_6	要素，确保项目任务高质量达成[10][11]的方法体系。在社会实践领域，以项目为载体的实践和管理，多见于综合运用内外资源、富于实效的成本管理与质量管理，以确保按
+ictedu_pbl_action_path_7	于教育体制存在巨大差别，以欧美现代教育为蓝本的项目式学习在我国的实践存在实施途径匮乏、实施目标不匹配、实施内容脱离课程教材、结构视角单一等问题。 从发展历程看，
+ictedu_pbl_action_path_8	式。而我国基础教育学校的课程体系和师资配备，有相对完备的支撑，学习内容本身具有较大体量，同一学校内的学生群体整体均衡，项目式学习课堂实施途径的调整空间不足。 二
+ictedu_pbl_action_path_9	，更重要的是教会学生学习方法。开展项目式学习的目的本身，具有促进学生学习方式、学习方法变革的意蕴，因此，如果不能架构项目式学习所特有的学生学习方法体系，那么，在
+ictedu_pbl_action_path_10	与学习项目的过程中创造、制作、形成、产生与目标相对应的关键性成果。 需要注意的是，新课程标准反复强调培养学生综合运用学科知识解决实际问题这一关键任务，从解决问题
+ictedu_pbl_action_path_11	别是极其必要的，这将为后续更好开展基于项目的学习提供理念支撑。 对于大多数教师来说，在自己的受教育经历中并不包含“项目式学习”，当前关于项目式学习的研究集中于如
+ictedu_pbl_action_path_12	]。其中，产品的产出可以是多种形式的，比如一幅画作、思维导图、展示表演等。学者胡佳怡认为项目式学习的一个重要特征就是学习的终点是产生有意义的产品[18]。 从近
+ictedu_pbl_action_path_13	是学习任务的“达成”，亦即关键成果的取得。 (五)项目式学习需要回归教材体系的思考 怎样理解“现实世界”和“对个人有意义”?一般认为，项目式学习强调基于真实情景
+ictedu_pbl_action_path_14	、新教材“三新”的陆续发布，教材在编制过程中已充分考虑了与真实生活场景的对接，且在课程实施中给予了大量项目式学习、跨学科主题学习等教学法建议，教育者不能简单地认
+ictedu_pbl_action_path_15	知识、创造价值的过程，体会学科思想方法[20]。 三、新课程视域下项目式学习行动路径的建构 (一)项目执行架构的教育化改造 前文所述，现实世界达成项目任务有其方
+ictedu_pbl_action_path_16	生项目学习能力逐步培养的阶梯。 图1 项目执行架构的教育化改造示意 2.形成学生项目式学习行动架构 对项目执行架构进行教育化改造后，包括七个行动要素。一是明确任
+ictedu_pbl_action_path_17	险进行预判，提前采取防范措施。七是任务整合，指将以上各项管理综合运用到项目式学习进程中，统筹各方面资源，把握学习项目整体进度和发展态势。 经过教育化改造后的学生
+ictedu_pbl_action_path_18	动流程图 基于教材单元的项目式学习一般由10～12节40分钟的课程组成，由教师发起，在综合研究分析教材内容、知识结构、素养要素、情感主线的基础上，以单元为单位制
+ictedu_pbl_action_path_19	8节分课时教学组成，根据任务分解，将教材单元内的所有教学材料统筹使用，既可以按顺序使用，也可以对顺序进行重新组合或提取不同材料中的素材调配使用，目的是通过教学材
+ictedu_pbl_action_path_20	程标准将项目式学习作为重要的综合性教学手段，倡导在多学科中广泛应用。 由于项目式学习对于学生学科素养和创新能力培养的内在机理与行动模式具有一致性，学生可以将这种
+ictedu_pbl_action_path_21	国务院关于深化教育教学改革全面提高义务教育质量的意见[N].人民日报,2019-07-09(001). [2]中华人民共和国教育部.义务教育课程方案(2022年
+ictedu_pbl_action_path_22	The use of the purposeful act in the educative process[EB/OL].(2018-08-02) [2024
+ictedu_pbl_action_path_23	理知识体系指南(PMBOK指南)第6版(Kindle版本)[M].北京:电子工业出版社,2018. [13]刘毛华.项目管理基础工具：五图二表(Kindle版本
+ictedu_pbl_action_path_24	“产品”：项目式学习的再认识[J].基础教育课程,2019(09):29-34. [19]李志河,张丽梅.近十年我国项目式学习研究综述[J].中国教育信息化,2
+ictedu_pbl_action_path_25	共和国教育部.义务教育数学课程标准(2022年版[S].北京:北京师范大学出版社,2022:16. [26]中华人民共和国教育部.义务教育科学课程标准(2022
+ictedu_pbl_action_path_26	rriculum JIANG Shuo1 HU Jiayi2 (1.Beijing Xicheng District LiXue Primary School，
+ictedu_pbl_action_path_27	n domestic practice such as a lack of implementation approaches, mismatched impl
+ictedu_pbl_action_path_28	f the process and results of project-based learning, and the issue of returning 
+ictedu_pbl_action_path_29	bilities, providing theoretical support for the large-scale application of proje
+ictedu_pbl_action_path_30	 and improve, and iterate and enhance, to acquire key abilities and essential qu
+bnu_epbl_intro_0	未来教育高精尖创新中心 - 国内合作 BNU-AICFE 中文 | ENGLISH Toggle navigation 首页 中心概况 中心简介 组织机构 学术
+bnu_epbl_intro_1	导向的项目式学习系统（Evidence-based Project Based Learning System, E-PBL系统），深入 探索移动互联时代的项目
+bnu_epbl_intro_2	典型综合课例，积累一批有价值的教学资料与研究数据。 天津英华 国际学校 首都师范大学 附属回龙观育新学校 北京市 怀柔区第一中学
+gov_experimental_zones_notice_0	教育部办公厅关于推荐义务教育教学改革实验区和实验校的通知 教基厅函〔2023〕30号 各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局： 为贯彻落实中
+gov_experimental_zones_notice_1	源条件，因校制宜制定学校课程实施方案并组织实施。加强课程实施监测和教育督导，确保区域内学校开齐各类课程，特别是劳动、艺术、体育与健康、信息科技、综合实践活动等国
+gov_experimental_zones_notice_2	、心理健康教育等专职教研员，完善教研员遴选配备办法和退出机制，探索建立优秀教研员和学校优秀教师“旋转门”制度。加强对课程、教学、作业和考试评价等育人关键环节研究
+gov_experimental_zones_notice_3	持续深入开展科普教育，积极推动科技馆、博物馆、研学基地、高科技企业、高校实验室、职业院校实训中心等专业资源服务中小学校。 7.指导实施青少年学生读书行动。探索区
+gov_experimental_zones_notice_4	探究式、体验式等教学方式，形成指向学生核心素养培育的方法策略。聚焦教学改革重点难点问题开展实践研究，实现突破。 3.优化评价方式方法。坚持评价促进学习的理念，引
+gov_experimental_zones_notice_5	学模式，提高学校教学效率和质量，引导师生加强国家中小学智慧教育平台的应用，合理开展自主学习，提高备授课质量。 6.高质量实施科学教育。配齐配足科学类学科教师，小
+gov_experimental_zones_notice_6	础，工作任务有规划、有措施、有保障，建立有效推进机制，取得典型经验成果，发挥较好示范引领作用。 3.教育行政部门对开展教学改革实验工作有明确的工作机制。主要负责
+gov_experimental_zones_notice_7	.校本教研制度健全，校本教研氛围浓厚，校本教研能力较强。注重教师队伍建设，积极开展教师培训和研修，提高教师的专业素养和教育教学水平。 5.在师资配备、经费和设施
+gov_experimental_zones_notice_8	以实验区建设为抓手，有组织地持续推进义务教育课程教学深化改革。实验区要按照实施方案认真组织实施，主要负责人要亲自抓，完善实验区工作制度，落实具体工作措施，及时总
+gov_experimental_zones_notice_9	 2023年12月18日
+qingpu_math_interdisciplinary_case_0	《义务教育数学课程标准（2022年版）》（以下简称2022年版数学课标）提出"根据不同学段学生特点，以跨学科主题学习为主，适当采用主题式学习和项目式学习的方式，
+qingpu_math_interdisciplinary_case_1	运用并解决真实问题的能力。在跨学科教学中，联系生活实际，聚焦真实问题的解决是跨学科最真实最有效的驱动与应用。  案例分析：在"疫情发布会"跨学科主题学习中的头脑
+qingpu_math_interdisciplinary_case_2	材料的真实情境，每种材料买多少、每个学生分多少等，开展克与千克、平均数、单价数量总价等单元主题的学习。教师可以依托社会热点设计主题课程，结合疫情、垃圾分类等社会
+qingpu_math_interdisciplinary_case_3	，而跨学科主题学习的课堂里问题结构可以是开放的，有多元解决方式，答案也是不确定的。教师需要把课程内容转化为围绕主题的探究实践任务，选择合适的教学方式或多种方式相
+qingpu_math_interdisciplinary_case_4	开始前，教师就可以把制订好的课程评价量表发放给学生，与学生开诚布公地讨论评价方案，让学生充分了解学习的目标后开展合作探究，持续聚焦学习目标，主动学习，减少学习中
+qingpu_math_interdisciplinary_case_5	。具有开放性的跨学科主题学习，探究发生的场所也具有开放性，不仅仅局限在课堂之上。如在"绘制公园平面地图"案例中，活动开展就分为课外和课内：课外主要是提出绘制主题
+scnu_scratch_pbl_case_0	基于项目式学习的小学 scratch 程序设计教学的研究 教育技术学 161 班：和文昌、林榕涛、黄经辉、李文进、杨 展 摘要 随着“互联网＋”时代的来临，计算
+scnu_scratch_pbl_case_1	握程序设计能力。但这其中的实际效果因人而异，参差不齐，并不能完全代替课堂教学。这样的现状使得小学信息技术教师对于计算机程序设计教学内容有新的思考：如何运用新的教
+scnu_scratch_pbl_case_2	ch 程序设计在课堂中应用这一研究方向。我们基于项目式学习的角度，针对这一软件在小学程序设计教学的运用，研究其程序设计课堂中教学设计的教学模式和教学过程。 二、
+scnu_scratch_pbl_case_3	在单位时间内能够学到更多的知识，更大幅度地提高学生各方面的能力，从而使学生获得良好的发展。 基于项目式学习的小学 scratch 程序设计教学的研究，结合项目式
+scnu_scratch_pbl_case_4	教学一般流程，提高教师的教学设计水平，提高课堂教学的效率。 四、理论支撑 （一）项目式学习 项目式学习的逻辑起点，是项目式学习的上位概念，它是一种教学模式。所谓
+scnu_scratch_pbl_case_5	突出把握教学活动整体及各要素之间内部的关系和 功能。根据美国学者托马斯博士对项目式学习的判断标准，我们做了进一步探究，项目式学习在结构框架层面应具有“四大要素六
+scnu_scratch_pbl_case_6	程序看项目式学习的流程 项目式学习作为一种教学模式，从活动程序来看则突出了有序性和可操作 性。项目式学习是学生发现问题、分析问题和解决问题的过程，根据学生整个探
+scnu_scratch_pbl_case_7	命存在及其优化活动的需要，其最终目的是提升学习者的学习成就。过去人们突出的是从文化中汲取而来的“教材内容”，偏向教师“教”的活动和行为，导致教学过于偏重与教材知
+scnu_scratch_pbl_case_8	关于 scratch 的教学研究，将 scratch 融入到 STEM 教育成为美国在 scratch 实践研究的一个热点。英国希望通过 scratch 带来更
+scnu_scratch_pbl_case_9	h 程序设计教学在激发学生兴趣，有效学习编程，培养逻辑思维和创造力方面有显著效果【1】。范竹青分别采用设计型学习方式下的教学和传统教授型教学对进行 scratc
+scnu_scratch_pbl_case_10	面培养。利用 scratch 这一教学媒体，在 scratch 编程教学中引导学生进行项目式的学习，有助于增强学生自主探究的兴趣，培养学生的团队协作能力、逻辑思
+scnu_scratch_pbl_case_11	有效问卷中，有 57.14%的调查对象知道 scratch 程序设计的教学，而 42.86%的人对 scratch 程序设计的教学并不知道。在知道 scratc
+scnu_scratch_pbl_case_12	.43，占大部分。根据这个问题，我们可以看出其实绝大部分人对于 Scratch 的教学过程中利用项目式学习的方法的这种做法还是比较认可的，我们也可以由此看出其实
+scnu_scratch_pbl_case_13	数认为项目式学习教学效果更好，对学生综合素质培养更有优势，占 71.43%，除此之外，有 21.43%的调查对象不这样认为。根据这个数据，其实我们已经可以很明白
+scnu_scratch_pbl_case_14	cratch 的教学过程中的效果，我们列举了档案袋评价、表现性评价、作业评价以及传统考试这四种评价方式，并且让同学们进行排序，由结果可见，我们在后期的评价过程中
+scnu_scratch_pbl_case_15	用在小学的程序设计教学中应该是可行的，同时有些同学不认为它能流行起来，也许可能是因为考虑到某些因素，像计算机不能普及到广大学生中去等等，因此这是我们问卷的一个需
+scnu_scratch_pbl_case_16	式，评价内容更偏重学生的综合能力，同时我们可以看到，传统的考试这种评价方式可能已经不太适用于类 Scratch 这种比传统课程更加具备实际性的课程。 综上，从问
+scnu_scratch_pbl_case_17	互交流，教师巡回指导，最后学生展示完成的作品。在教学过程中加入小组讨论、学生或小组良性竞争的环节。通过任务驱动的教学策略帮助学生强化训练、巩固知识。 2、以活动
+scnu_scratch_pbl_case_18	南师范大学附属小学王继华老师及其团队提出，该模式关注如何在小学信息技术教育中提高学生的创新能力，认为在信息技术教育中要让学生学习创作，让学生成为信息和产品的生产
+scnu_scratch_pbl_case_19	变只能玩别人设计的游戏的不悦，体验把玩自己设计的游戏的乐趣的同时也开发了自己的创新思维，培养了编程的思想。简单易上手且趣味性高的设计让很多人第一次使用它就喜欢上
+scnu_scratch_pbl_case_20	，提高教师的教学能力以及课程的实际教学水平，改变以往枯燥乏味的信息技术课堂的教学方式。同时，也能有效地激发学生对于程序设计的学习兴趣，更好地锻炼其逻辑思维能力，
+scnu_scratch_pbl_case_21	s 系统等多个版本，能很好的适应现在智能移动终端的需求。再者，Scratch 具有可视化、适用于儿童学习数学、逻辑及设计流程清晰等优点。积木组合式程序设计方法，
+scnu_scratch_pbl_case_22	合理性。 创意构思。学生对项目内容进行构思，应该包含什么元素、运用什么功能、如何实现等，激化学生的兴趣，拓宽思路。 制定计划。小组根据对项目的构思内容制定项目推
+scnu_scratch_pbl_case_23	生在该阶段对项目涉及的知识点进行学习、理解，小组内进行交流，深化对知识的认识，探索对知识的实际应用。而该阶段循环进行，能够让学生在项目深入的过程中深化知识，拓宽
+scnu_scratch_pbl_case_24	意义的，具有挑战性。 项目具有实际意义也就是将学习与实际生活联系起来，创设现实情境的项目，能帮助学生使学习成为生活的一部分。在项目学习中，学生需要运用所学的知识
+scnu_scratch_pbl_case_25	。 项目教学法是一种建立在综合认知主义、建构主义、人本主义学习理论基础上的教学方法，培养学生的自学能力和独立分析问题、解决问题的能力[8]。教师要从主导者、讲授
+scnu_scratch_pbl_case_26	，且问卷对象同质性高，数据缺乏广泛性和客观性。数据分析结果不具备普适性。 缺少实证支撑 研究未进行实证研究，未在现实中应用环形教学模型进行实际教学，教学效果没有
+scnu_scratch_pbl_case_27	创作之旅[J]. 中国信息技术教育, 2013(10):15-17. 凌秋虹. Scratch 在小学信息技术课堂中的应用与实践[J]. 中国电化教育, 201
+scnu_scratch_pbl_case_28	 程序教学过程中学生是否可以接受项目式学习的方式？ 【项目式学习：以学生为中心设计执行项目的教学和学习方法。 在一定时间内，学生选择、计划、提出一个项目构思，通
+singapore_moe_project_work_0	Interdisciplinary Project Work is a learning experience that provides primary an
+pbl_exit_tickets_0	Exit Tickets Strategy Guide: Exit tickets are brief formative assessments and/or
+pbl_facilitating_student_choice_0	Facilitating Student Choice Strategy Guide: Student choice is an essential eleme
+pbl_gold_standard_teaching_practices_0	Gold Standard PBL: Project Based Teaching Practices. Teachers who make Project B
+pbl_learning_log_0	Learning Log Strategy Guide: A learning log is a tool that students use during t
+pbl_mathematics_spotlight_0	PBL Spotlights: PBL in Mathematics. PBL mathematics teachers know the power PBL 
+pbl_project_planner_0	Project Planner Instructions: Beginning with your learning goals and what you kn
+pbl_effective_teams_0	Turning Student Groups into Effective Teams by Barbara Oakley, Richard M. Felder
+pbl_collaboration_rubric_k2_0	Collaboration Rubric Grade K-2. Aligned to the NCIES literature review on collab
+pbl_collaboration_rubric_35_0	Collaboration Rubric Grade 3-5. Aligned to the NCIES literature review on collab
+pbl_collaboration_rubric_612_0	Collaboration Rubric Grade 6-12. Aligned to the NCIES literature review on colla
+pbl_community_partner_planner_0	Community Partner Outreach Planner: Use this tool to plan for thoughtful collabo
+pbl_complex_communication_612_0	Complex Communication Rubric Grade 6-12. Aligned to the NCIES literature review 
+pbl_complex_communication_k2_0	Complex Communication Rubric Grade K-2. Aligned to the NCIES literature review o
+pbl_creating_using_norms_0	Creating and Using Norms to Build Effective Culture Strategy Guide. Norms are ag
+pbl_creativity_rubric_35_0	Creativity Rubric Grade 3-5. Aligned to NCIEA's literature review on creativity,
+pbl_creativity_rubric_612_0	Creativity Rubric Grade 6-12. Aligned to NCIEA's literature review on creativity
+pbl_creativity_rubric_k2_0	Creativity Rubric Grade K-2. Aligned to NCIEA's literature review on creativity,
+pbl_critical_thinking_rubric_35_0	Critical Thinking Rubric Grade 3-5. Aligned to the NCIES literature review, crit
+pbl_critical_thinking_rubric_612_0	Critical Thinking Rubric Grade 6-12. Aligned to the NCIES literature review, cri
+pbl_critical_thinking_rubric_k2_0	Critical Thinking Rubric Grade K-2. Aligned to the NCIES literature review, crit
+pbl_main_course_0	Main Course PBL by John Larmer and John R. Mergendoller (2010). This article dis
+pbl_ntk_questions_0	Need to Know Questions Strategy Guide. At the beginning of a project, students a
+pbl_product_toolkit_business_plan_0	PBLWorks Product Toolkit: Business Plan. A business plan provides an overview of
+pbl_product_toolkit_event_planning_0	PBLWorks Product Toolkit: Event Planning and Hosting. Event planning and hosting
+pbl_product_toolkit_idea_talk_0	PBLWorks Product Toolkit: Idea Talk. A short concise presentation about a focuse
+pbl_product_toolkit_infographic_0	PBLWorks Product Toolkit: Infographic. A visual representation of data, informat
+pbl_product_toolkit_museum_exhibit_0	PBLWorks Product Toolkit: Museum Exhibit. A curated collection of artifacts disp
+pbl_product_toolkit_physical_model_0	PBLWorks Product Toolkit: Physical Model/Prototype. A tangible representation of
+pbl_product_toolkit_policy_proposal_0	PBLWorks Product Toolkit: Policy Proposal. A formal document/presentation outlin
+pbl_product_toolkit_social_media_0	PBLWorks Product Toolkit: Social Media Campaign. A coordinated effort using soci
+pbl_audience_feedback_form_0	Audience Feedback Form Strategy Guide. A tool for actively engaging the audience
+pbl_forming_teams_0	Forming Project Teams Strategy Guide. PBL provides opportunities for students to
+pbl_interviews_0	Preparing for and Conducting Interviews Strategy Guide. Students conduct intervi
+pbl_team_contract_template_0	Project Team Contract Template. A simple structure for teams to agree on working
+pbl_revisiting_ntk_0	Revisiting Need to Know Questions Strategy Guide. Need to know questions initiat
+pbl_storyboard_0	Storyboard Template. Use frames to show key project milestones and represent sig
+pbl_thinking_routines_path_0	Thinking Routines and Project PATH. Maps thinking routines to the four phases of
+pbl_roles_in_teams_0	Using Roles in Teams Strategy Guide. Planning specific real-world team roles add
+pbl_using_rubrics_0	Using Rubrics Strategy Guide. A rubric should be leveraged throughout the projec
+pbl_english_learner_scaffolds_0	Scaffolding for English Learners in PBL, aligned with California's English Langu
+pbl_essential_design_elements_0	Essential Project Design Elements Checklist (Gold Standard PBL, Buck Institute f
+pbl_project_based_teaching_rubric_0	Project Based Teaching Rubric evaluating teacher practice across seven Project B
+pbl_project_path_0	Project Path: four phases of a project. Phase 1 Launch Project (Entry Event and 
+pbl_using_ai_planning_0	Using AI to Support PBL Planning Strategy Guide. Conversational AI like Claude.A
+pbl_models_quality_work_0	Using Models of Quality Work Strategy Guide. Analyzing models of high-quality wo
+pbl_success_skills_early_childhood_0	Using Success Skills Rubrics in Early Childhood Strategy Guide. Success skills l
+pbl_visual_performing_arts_0	PBL Spotlights: PBL in Visual and Performing Arts. The public product is a natur
+pbl_working_outside_experts_0	Working with Outside Experts Strategy Guide. Inviting adults who do the work of 
+pbl_presentation_day_checklist_0	Presentation Day Checklist: Schedule of presentations set; Guests/audience know 
+pbl_presentation_plan_0	Presentation Plan. A form for students to plan their presentations, outlining pr
+pbl_project_management_log_team_0	Project Management Log: Team Tasks. A tool for teams to track project tasks and 
+pbl_audience_feedback_form_2_0	Project Presentation Audience Feedback Form, including Student Team, Project Nam
+pbl_work_report_individual_0	Project Work Report: Individual. A self-reporting tool including Project Name, S
+pbl_work_report_team_0	Project Work Report: Team. A self-reporting tool for teams including Project Nam
+pbl_self_reflection_0	Self-Reflection on Project Work. A form completed at project end, including Stud
+pbl_letter_to_parents_0	Template for Letter to Parents, communicating an upcoming PBL project: introduct
+pbl_physical_education_0	PBL Spotlights: PBL in Physical Education. PBL and PE share hands-on learning, g
+pbl_post_project_reflection_0	Post Project Reflection and Feedback from Students Strategy Guide. Teachers shou
+pbl_preparing_presentations_0	Preparing Students for Presentations Strategy Guide. Presenting to an authentic 
+pbl_project_design_rubric_2022_0	Project Design Rubric (2022), evaluating Gold Standard PBL project design across
+pbl_project_walls_0	Project Walls Strategy Guide. A project wall is a visual classroom 'hub' managin
+pbl_reflection_0	Reflection Strategy Guide. Reflection describes cognitive processes for making m
+pbl_revision_strategies_0	Revision Strategies Strategy Guide. Revision makes PBL iterative, fostering deep
+pbl_science_spotlight_0	PBL Spotlights: PBL in Science. Gold Standard PBL emulates how science happens i
+pbl_self_directed_learning_35_0	Self-Directed Learning Rubric Grades 3-5, aligned to NCIES literature review. Se
+pbl_self_directed_learning_612_0	Self-Directed Learning Rubric Grades 6-12, aligned to NCIES literature review. S
+pbl_self_directed_learning_k2_0	Self-Directed Learning Rubric Grade K-2, aligned to NCIES literature review, wit
+pbl_special_education_0	PBL Spotlights: PBL Inclusive of Students with Special Needs. PBL's design eleme
+pbl_workshop_model_0	The Workshop Model Strategy Guide. An apprenticeship approach with structured sh
+pbl_thinking_routines_guide_0	Thinking Routines Strategy Guide. Structured protocols guiding intentional think
+edutopia_pbl_defined_0	What the Heck Is Project-Based Learning? Your content has been saved! Go to My S
+edutopia_pbl_defined_1	and me again, let's bump up that definition so that it more accurately captures 
+edutopia_pbl_defined_2	I love a great roller coaster, but their décor needs some serious work. At Disne
+edutopia_pbl_defined_3	looking to foster innovation. PBL keeps its eye on the ball no matter the trendy
+edutopia_getting_started_0	Resources for Getting Started With Project-Based Learning Explore Edutopia’s cur
+edutopia_getting_started_1	fifth grade classroom. - Learning by Doing: A Teacher Transitions Into PBL, by S
+edutopia_getting_started_2	picture of a project-based learning classroom. Read more on what works best when
+edutopia_pbl_hub_0	Project-Based Learning (PBL) Project-based learning is a dynamic classroom appro
+edutopia_pbl_hub_1	have a proper audience.1.3kYour content has been saved! Go to My Saved Content. 
+hth_project_1_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL Teacher: Carl Landegger Grade 
+hth_project_2_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS Students from kinderg
+hth_project_3_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS Together we answered 
+hth_project_3_1	work in a book on Amazon which is available for purchase! Humanities: 5th grader
+hth_project_4_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS How do my everyday ch
+hth_project_4_1	of independence that students had when walking their grown-ups around their exhi
+hth_project_5_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS How does knowing and 
+hth_project_6_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS Our project launched 
+hth_project_6_1	they can take action to support community members in need. Students were so exci
+hth_project_7_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS Students will explore
+hth_project_8_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS This trimester we put
+hth_project_9_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS “Can we work on actua
+hth_project_9_1	this very technical document, looking up any terms they did not understand, and 
+hth_project_9_2	possible. A momentous decision — whether or not their case would be taken on — d
+hth_project_10_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS “If a staircase goes 
+hth_project_10_1	Students created a poster explaining the math they had used in their staircase. 
+hth_project_10_2	on the quality of their revision, and their explanation of what they learned abo
+hth_project_11_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS How does / can urban 
+hth_project_11_1	created posters, detailing their proposed solutions. These posters were displaye
+hth_project_11_2	Old Town. We were able to take a deeper look into different cultures around San 
+hth_project_12_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS After students explor
+hth_project_12_1	Weekend | This is a project for which we are extremely proud. It really matches 
+hth_project_13_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS “A city is a particul
+hth_project_13_1	research and represent in a conceptual map. Field work at the Historical Society
+hth_project_14_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS Art teacher Jeremy Fa
+hth_project_14_1	an evening event at the school. The true exhibition was the public release of th
+hth_project_15_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS In this 6 week projec
+hth_project_15_1	to make the toy more interactive while other toys were “old school,” constructed
+hth_project_15_2	prepare for the interview, and then conduct follow-up sessions with the families
+hth_project_16_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS What makes up a commu
+hth_project_17_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS In this project stude
+hth_project_18_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS This is a joint proje
+hth_project_18_1	how molecules in a solution are separated or purified by the methods of chromato
+hth_project_18_2	and its human costs (military and civilian) on all sides of the conflict, includ
+hth_project_18_3	a work of literature is related to the themes and issues of its historical perio
+hth_project_18_4	– March 12 | Continue WWII Play practice | Continue chemistry articles | | Week 
+hth_project_19_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS The ability to make y
+hth_project_19_1	students to engage with the project. While all students in the class were grappl
+hth_project_20_0	PROJECT DESCRIPTION INSTRUCTORS SCHOOL SITE LEVEL SUBJECTS “Who are our unsung h
+hth_project_20_1	Back at school they transcribed the story and used it to create a “documentary p
